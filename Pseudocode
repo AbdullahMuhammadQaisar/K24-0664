@@ -1,0 +1,50 @@
+Pseudocode 1
+START
+INPUT num1
+INPUT num2
+INPUT num3
+IF num1 > num2 THEN
+  IF num1 > num3 THEN
+  PRINT (num1 “is greatest or maximum”)
+  ELSE
+  PRINT (num3 “is greatest or maximum”)
+  ENDIF
+IF num2 > num1 THEN
+  IF num2 > num3 THEN
+  PRINT (num2 “is greatest or maximum”)
+  ELSE
+  PRINT (num3 “is greatest or maximum”)
+  ENDIF
+ELSE
+PRINT “Invalid Input some numbers are equal”
+ENDIF
+END
+
+Pseudocode 2
+START
+INPUT num1
+INPUT num2
+INPUT num3 
+SET sum to 0
+CALC sum = -num1-num2-num3
+CALC sum = -1*sum
+PRINT sum
+END
+
+Pseudocode 3
+START
+INPUT num1
+INPUT operator
+INPUT num2
+SET sum = 0
+SET sub = 0
+IF operator == + THEN
+   sum = num1+num2
+   PRINT sum
+ELSE IF operator == - THEN
+   sub = num1-num2
+   PRINT sub
+ELSE 
+   PRINT “Invalid operator; Use either + or –“
+ENDIF
+END
