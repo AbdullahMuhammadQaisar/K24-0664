@@ -1,0 +1,27 @@
+ALgorithm 1
+1. Ask the user to input the num
+2. Check if num == 1 then Display (“January”)
+3. Check else if num == 2 then Display (“February”)
+4. Check else if num == 3 then Display (“March”)
+5. Check else if num == 4 then Display (“April”)
+6. Check else if num == 5 then Display (“May”)
+7. Check else if num == 6 then Display (“June”)
+8. Check else if num == 7 then Display (“July”)
+9. Check else if num == 8 then Display (“August”)
+10. Check else if num == 9 then Display (“September”)
+11. Check else if num == 10 then Display (“October”)
+12. Check else if num == 11 then Display (“November”)
+13. Check if num == 12 then Display (“December”)
+14. Else Display (“Invalid input; input should be between 1 and 12”)
+
+Algorithm 2
+1. Ask the user to input num1
+2. Ask the user to input num2
+3. Set sum to num1+num2
+4. Display sum
+5. Set sub to num1-num2
+6. Display sub
+7. Set multi to num1+num2
+8. Display multi
+9. Set divide to num1/num2
+10. Display divide
